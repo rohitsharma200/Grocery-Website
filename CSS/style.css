@@ -738,17 +738,6 @@ section{
     width: 100%;
   }
 
-  .about {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
-    -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
-    gap: 1.5rem;
-  }
   
   .about .image {
     -webkit-box-flex: 1;
